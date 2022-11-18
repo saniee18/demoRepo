@@ -1,0 +1,132 @@
+{
+	"Valid":
+	{
+		"FirstName":"Sanika",
+		"LastName":"Chati",
+		"EnterEmail":"sanikachati55@gmail.com",
+		"ConfEmail":"sanikachati55@gmail.com",
+		"Username":"sanikaa12",
+		"Password":"Pass2123",
+		"ConfirmPassword":"Pass2123",
+		"CountryId":"India",
+		"TimeZoneId":"(UTC-09:00) Alaska",
+		"Details_CompanyIndustryId":"I am student",
+		"Expcted Result":"Almost done!!"
+		
+	},
+	"Char_SpecChar_Email":
+	{
+		"FirstName":"Sanika",
+		"LastName":"Chati",
+		"EnterEmail":"sanikachati5gmail.com",
+		"ConfEmail":"sanikachati5@gmail.com",
+		"Username":"sanika12%$",
+		"Password":"Pass2123#$",
+		"ConfirmPassword":"Pass2123#$",
+		"CountryId":"India$%",
+		"TimeZoneId":"(UTC-09:00) ^&Alaska",
+		"Details_CompanyIndustryId":"I a#m student"
+
+	},
+"Blank":
+	{
+		"FirstName":"  ",
+		"LastName":"   ",
+		"EnterEmail":"  ",
+		"ConfEmail":"  ",
+		"Username":"   ",
+		"Password":"  ",
+		"ConfirmPassword":"  ",
+		"CountryId":"  ",
+		"TimeZoneId":"  ",
+		"Details_CompanyIndustryId":"  "
+	
+	},
+"DoubleSpace":
+	{
+		"FirstName":"Sa  nika",
+		"LastName":"Cha  ti",
+		"EnterEmail":"sanika  chati5@gmail.com",
+		"ConfEmail":"sanika  chati5@gmail.com",
+		"Username":"sanika12 ",
+		"Password":"Pass  2123",
+		"ConfirmPassword":"Pass  2123",
+		"CountryId":"India  ",
+		"TimeZoneId":"(UTC-09:00)   Alaska",
+		"Details_CompanyIndustryId":"I am   student"
+		
+
+	},
+	"LessChar":
+	{
+		"FirstName":"S",
+		"LastName":"C ",
+		"EnterEmail":"sanika#$chati5@gmail.com",
+		"ConfEmail":"sanikachati5@gmail.com",
+		"Username":"s",
+		"Password":"P",
+		"ConfirmPassword":"P",
+		"CountryId":"I",
+		"TimeZoneId":"(UTC-09:00) ^&Alaska",
+		"Details_CompanyIndustryId":"I "
+		
+
+	},
+	"MaxChar":
+	{
+		"FirstName":"Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss",
+		"LastName":"CSssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss",
+		"EnterEmail":"sanika#$chati5@gmail.com",
+		"ConfEmail":"sanikachati5@gmail.com",
+		"Username":"Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss",
+		"Password":"Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss",
+		"ConfirmPassword":"Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss",
+		"CountryId":"Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss",
+		"TimeZoneId":"(UTC-09:00) ^&Alaska",
+		"Details_CompanyIndustryId":"Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssss Sssssss ssssssss ssssssssSssssss ssssssss ssssssss Sssssss ssssssss ssssssss"
+
+},
+
+	"ComboNumSymbol":
+	{
+		"FirstName":"Sanika@1",
+		"LastName":"Chati@1",
+		"EnterEmail":"sanikachati5@gmail.com@1",
+		"ConfEmail":"sanikachati5@gmail.com@1",
+		"Username":"sanika12@1",
+		"Password":"Pass2123",
+		"ConfirmPassword":"Pass2123",
+		"CountryId":"India@1",
+		"TimeZoneId":"(UTC-09:00) Alaska@1",
+		"Details_CompanyIndustryId":"I am student@1"
+		
+	},
+	"OnlyNum":
+	{
+		"FirstName":"21",
+		"LastName":"21",
+		"EnterEmail":"21",
+		"ConfEmail":"21",
+		"Username":"21",
+		"Password":"21",
+		"ConfirmPassword":"213",
+		"CountryId":"21",
+		"TimeZoneId":"21",
+		"Details_CompanyIndustryId":"21"
+		
+	},
+	"OnlySpecSymbol":
+	{
+		"FirstName":"@#",
+		"LastName":"^&",
+		"EnterEmail":"%^",
+		"ConfEmail":"#",
+		"Username":"(&",
+		"Password":"&*",
+		"ConfirmPassword":"&(*",
+		"CountryId":"&^",
+		"TimeZoneId":"*(",
+		"Details_CompanyIndustryId":"#$"
+		
+	}
+}

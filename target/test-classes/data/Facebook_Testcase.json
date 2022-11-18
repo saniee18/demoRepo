@@ -1,0 +1,83 @@
+{
+	"Valid":
+	{
+		"Email":"sanikachati5@gmail.com",
+		"Password":"Saniee@1830"
+	},
+	"Blank":
+	{
+		"Email":" ",
+		"Password":" "
+	},
+	
+	"Less_Char":
+	{
+		"Email":"s",
+		"Password":"s"
+	},
+	"Max_Char":
+	{
+		"Email":"sanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.com",
+		"Password":"sanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachati"
+	},
+	"Combo_NumSymbol":
+	{
+		"Email":"sanika23@chati5@gmail.com",
+		"Password":"sanika@#@chati5@gmailcom"
+	},
+	"only_Num":
+	{
+		"Email":"2514251643",
+		"Password":"71247"
+	},
+	"only_SpecSymbol":
+	{
+		"Email":"#$@#@#$",
+		"Password":"46546565"
+	},
+	"DoubleSpace":
+	{
+		"Email":"sanika  chati5@gmail.com",
+		"Password":"sanika  chati"
+	},
+	"Blank_password":
+	{
+		"Email":"sanikachati5@gmail.com",
+		"Password":" "
+	},
+	"Invalid_Username":
+	{
+		"Email":"sanik^%%$achati5@gmail.com",
+		"Password":"sanikachati5"
+	},
+	"Invalid_password":
+	{
+		"Email":"sanikachati5@gmail.com",
+		"Password":"sanikachati5@gmail.com"
+	},
+	"Blank_username_password":
+	{
+		"Email":"",
+		"Password":""
+	},
+	"SpecChar_username":
+	{
+		"Email":"#$#$",
+		"Password":"sanikachati5"
+	},
+	"only_Two_Char_In_username":
+	{
+		"Email":"sa",
+		"Password":"sanikachati5"
+	},
+	"HundredDigit_ID":
+	{
+		"Email":"sanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.comsanikachati5@gmail.com",
+		"Password":"sanikachati5"
+	},
+	"HundredDigit_password":
+	{
+		"Email":"sanikachati5@gmail.com",
+		"Password":"sanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisanikachatisan"
+	}
+}

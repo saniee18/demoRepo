@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Login" verbose="1" >
+<test name="Facebook_Testcase" >
+<parameter name ="browser" value="chrome"/>
+<paramter name ="url" value="https://www.facebook.com/login/"/>
+<classes>
+	<class name="TestCase.Facebook_Testcase"/>
+</classes>
+</test>
+</suite>
+
